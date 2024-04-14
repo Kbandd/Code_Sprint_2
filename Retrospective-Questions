@@ -1,0 +1,17 @@
+What went well this sprint?: 
+The team successfully implemented user authentication using OAuth, which was a major component for our application's security. Most importantly, the backend API for data retrieval was developed and programmed ahead of schedule, allowing us more time for testing and refining.
+
+What did not go well for this sprint?: 
+As with all projects and codings, challenges were faced with the front-end development, such as those with integrating the API response into the ui. This took longer than anticipated and affected our overall progress.
+
+Did you complete the tasks you planned to complete?: 
+We completed most of the planned tasks but fell short on the front-end interface development and unit testing due to the challenges we faced.
+
+Did you experience any unforeseen technical issues that prevented your progress? Please describe them.: 
+Yes, integrating the backend API with the front-end was more complex than expected. The API required additional formatting and paraphrasing to fit the front-end requirements, leading to delays.
+
+Do you feel you are on-track to complete your project? If no:
+We are slightly behind schedule due to the front-end challenges.
+
+How do you plan to change your development process, and why? 
+We plan to give more time for front-end development and increase collaboration between back and front-end teams to make sure everything keeps going smoother with integration. Through all, we'll prioritize unit testing earlier in the development process to catch issues sooner.
